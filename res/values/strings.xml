@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GovCo</string>
+    <!-- map service -->
+    <string name="mapserver_url"></string>
+    <!-- geocode service -->
+    <string name="geocode_url">http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer</string>
+    <!-- text for geocode label -->
+    <string name="geocode_label">EJ: Carrera 12 90 20, Bogotá</string>
+    <!-- button string -->
+    <string name="button_locate">Go</string>
+    <string name="button_mylocate">Mi Ubicación</string>
+    <string name="play_services_dialog_cancel_toast">Google Play Services will help conserve your battery!</string>
+    <string name="gps_provider_disabled">GPS Location Services are unavailable!</string>
+    <string name="network_provider_disabled">Network Location Services are unavailable!</string>
+    <string name="both_gps_and_network_disabled">GPS and Network Location Services are both unavailable!</string>
+    <string name="enable_background_scanning">Please enable background scanning!</string>
+    <string name="enable_wifi">Please enable wifi for accurate locations!</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_pantalla_inicial">PantallaInicial</string>
+    <string name="title_activity_entidades">Entidades</string>
+    <string name="title_activity_configuracion">Configuracion</string>
+    <string name="title_activity_ayuda">Ayuda</string>
+    <string name="Ayuda">En esta aplicación usted puede conocer la ubicación y datos de contacto de varias entidades estatales, actualmente encontrará entidades como el IGAC, Ministerio de Salud, Servicio Geológico Colombiano, entre otras.\n\n
+El botón “Mapa” le permite consultar la ubicación de todas las entidades en un mapa base de OpenStreet, usando el botón “Entidades” puede consultar cada entidad por separado, y a través del botón de configuración puede iniciar o detener el servicio de GeoTrigger.\n\n
+Esta aplicación cuenta con la funcionalidad de GeoTrigger que usa la tecnología de Esri, por medio del cual, si se activa, le permite una vez iniciada la aplicación cargar una notificación de tipo Push en el momento en el que usted haya ingresado a la entidad o haya salido de la misma, cada notificación lo lleva la página web de dicha entidad.\n\n
+Esta aplicación fue creada por el Semillero de Innovación Geografica (SIG), apoyado por Esri Colombia y usa ArcGIS Online para desarrolladores, y el Runtime para Android., para mayor información ingrese a www.esri.co\n\n
+\nEsta soportado para Android versión 4.2 o superior.</string>
+
+</resources>
