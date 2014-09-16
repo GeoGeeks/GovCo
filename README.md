@@ -1,6 +1,6 @@
 # _GovCo_
 
-Esta aplicación fue creada por el grupo Semillero de Innovación Geográfica (SIG) de Esri Colombia, para mayor información consulte www.ersi.co o visite @geo_geeks en twitter.
+Esta aplicación fue creada por el grupo Semillero de Innovación Geográfica (SIG) de Esri Colombia, para mayor información consulte www.esri.co o visite @geo_geeks en twitter.
 
 En esta aplicación usted puede conocer la ubicación y datos de contacto de varias entidades estatales en Bogotá, actualmente encontrara entidades como el IGAC, Ministerio de Salud, Servicio Geológico Colombiano y Federación Nacional de Cafeteros.
 Esta aplicación cuenta con la funcionalidad de GeoTrigger que usa la tecnología de Esri, por medio del cual si se activa le permite una vez iniciada la aplicación cargar una notificación de tipo Push una vez usted haya ingresado a la entidad o haya salido de la misma, cada notificación lo lleva la página web de dicha entidad.
